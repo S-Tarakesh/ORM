@@ -1,5 +1,4 @@
 # Ex02 Django ORM Web Application
-## Register No:25012132
 ## Date: 20.11.2023
 
 ## AIM
